@@ -14,6 +14,17 @@ Os dados utilizados são oriundos do repositório público da Olist no Kaggle e 
 - olist_products_dataset.csv
 - olist_customers_dataset.csv
 
+📂 Estrutura do projeto:
+- ├── Notebook/
+ - │   └── analiseDados.ipynb
+- ├── Datasets/
+ - │   └── *.csv
+- ├── Imagens/
+ - │   └── dashboard.png
+- ├── Dashboard/
+ - │   └── Analise_eCommerce.pbix
+- └── README.md
+
 ## 📌 Principais Análises Realizadas
 ## 🔍 Em Python:
 - Produtos mais vendidos e suas categorias
