@@ -39,6 +39,9 @@ Os dados utilizados são oriundos do repositório público da Olist no Kaggle e 
 - Mapa de calor de distribuição de clientes
 - Gráficos interativos para filtros por tempo e localização
 
+## 🖼️ Imagem do dashboard
+![Dashboard utilizando PowerBI](Imagens/Dashboard.png)
+
 ## 📎 Resultados Interessantes
 - 📦 A categoria com maior faturamento foi Beleza & Saúde
 - 🚚 O estado com maior valor médio de frete foi AC (R$ 35,74)
@@ -48,3 +51,5 @@ Os dados utilizados são oriundos do repositório público da Olist no Kaggle e 
 clone o repositório: 
 
 `git clone https://github.com/GuilhermeDamazio/Analise-do-E-Commerce-Brasileiro.git`
+
+
